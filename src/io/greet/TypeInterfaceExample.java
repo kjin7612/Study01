@@ -11,7 +11,7 @@ public class TypeInterfaceExample {
     }
 
     public static void printLambda(StringLengthLambda l){
-        System.out.println(l.getLength("Hello Lambda"));
+//        System.out.println(l.getLength("Hello Lambda"));
     }
 
     interface StringLengthLambda{
