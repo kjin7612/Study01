@@ -1,6 +1,4 @@
-package study01;
-
-import java.util.Arrays;
+package leetcode;
 
 /**
  * Input: nums = [0,1,0,3,12]
